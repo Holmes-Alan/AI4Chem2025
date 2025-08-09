@@ -5,5 +5,7 @@ Welcome to Application of AI/ML techniques in Atmospheric Science 2025! This is 
 To follow the tutorial, you can directly open "CNN_tutorial.ipynb" in this repository and open it in Google Colaboratory to start your experiments.
 ![network](/figure.png)
 
+For tutorial 1, the necessary materials can be found at the Google drive [summer_schoolr2025](https://drive.google.com/drive/folders/1Qtp1ppAKUmkizOXSPUwAPF1tuLQ1cRrl?usp=sharing)
+
 ## Contact
 [AMC-Lahti Team](https://amc-lahti.fi/)
